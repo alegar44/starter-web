@@ -18,4 +18,8 @@ Thi sis the deployment
 
 asldkfj ;aslkdjf;asdfa;sldkj;fla;lskjkdf. Mas texto etc etc etc
 
-laskjhdflkajsdaldf kajs dflk 
+laskjhdflkajsdaldf kajs dflk
+
+### Copyright
+
+2014 Git Ttraining 
