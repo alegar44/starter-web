@@ -30,4 +30,4 @@ please for this repository
 
 ### Copyright
 
-2014 Git Ttraining 
+2014 Git Ttraining. All right reserved
